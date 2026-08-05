@@ -1,6 +1,7 @@
 import React from 'react';
 import '../src/ui/index.css';
 import type { Preview } from '@storybook/react-vite';
+import { Analytics } from '@vercel/analytics/react';
 
 const preview: Preview = {
   parameters: {
@@ -24,6 +25,7 @@ const preview: Preview = {
           id="page-layout-default"
         >
           <Story />
+          <Analytics />
         </div>
       );
     },
