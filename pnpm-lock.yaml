@@ -1476,8 +1476,8 @@ importers:
         specifier: ^1.1.3
         version: 1.1.4(react@18.3.1)
       valibot:
-        specifier: ^1.2.0
-        version: 1.2.0(typescript@6.0.3)
+        specifier: ^1.4.2
+        version: 1.4.2(typescript@6.0.3)
     devDependencies:
       '@docusaurus/module-type-aliases':
         specifier: ^3.9.2
@@ -3782,7 +3782,7 @@ importers:
         version: 4.12.34
       hono-openapi:
         specifier: ^1.3.0
-        version: 1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.2.0(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3)
+        version: 1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3)
       rollup:
         specifier: ^4.59.0
         version: 4.60.3
@@ -4003,7 +4003,7 @@ importers:
         version: 2.1.0
       hono-openapi:
         specifier: ^1.3.0
-        version: 1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.2.0(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3)
+        version: 1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3)
       stacktrace-parser:
         specifier: ^0.1.11
         version: 0.1.11
@@ -5329,7 +5329,7 @@ importers:
     dependencies:
       vitest:
         specifier: '*'
-        version: 4.1.8(@opentelemetry/api@1.9.1)(@types/node@22.19.15)(@vitest/coverage-v8@4.1.8)(@vitest/ui@4.1.8)(jsdom@27.4.0(@noble/hashes@2.0.1)(bufferutil@4.1.0))(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.8(@opentelemetry/api@1.9.1)(@types/node@22.19.15)(@vitest/coverage-v8@4.1.8)(@vitest/ui@4.1.8)(jsdom@27.4.0(@noble/hashes@2.2.0)(bufferutil@4.1.0))(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0))
     devDependencies:
       '@mastra/core':
         specifier: workspace:*
@@ -7731,7 +7731,7 @@ importers:
     dependencies:
       vitest:
         specifier: '*'
-        version: 4.1.8(@opentelemetry/api@1.9.1)(@types/node@22.19.15)(@vitest/coverage-v8@4.1.8)(@vitest/ui@4.1.8)(jsdom@27.4.0(@noble/hashes@2.0.1)(bufferutil@4.1.0))(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.8(@opentelemetry/api@1.9.1)(@types/node@22.19.15)(@vitest/coverage-v8@4.1.8)(@vitest/ui@4.1.8)(jsdom@27.4.0(@noble/hashes@2.2.0)(bufferutil@4.1.0))(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0))
     devDependencies:
       '@ai-sdk/provider-v5':
         specifier: npm:@ai-sdk/provider@2.0.3
@@ -13782,10 +13782,6 @@ packages:
   '@noble/hashes@1.8.0':
     resolution: {integrity: sha512-jCs9ldd7NwzpgXDIf6P3+NrHh9/sD6CQdxHyjQI+h/6rDNo88ypBxxz45UDuZHz9r3tNz7N/VInSVoVdtXEI4A==}
     engines: {node: ^14.21.3 || >=16}
-
-  '@noble/hashes@2.0.1':
-    resolution: {integrity: sha512-XlOlEbQcE9fmuXxrVTXCTlG2nlRXa9Rj3rr5Ue/+tX+nmkgbX720YHh0VR3hBF9xDvwnb8D2shVGOwNx+ulArw==}
-    engines: {node: '>= 20.19.0'}
 
   '@noble/hashes@2.2.0':
     resolution: {integrity: sha512-IYqDGiTXab6FniAgnSdZwgWbomxpy9FtYvLKs7wCUs2a8RkITG+DFGO1DM9cr+E3/RgADRpFjrKVaJ1z6sjtEg==}
@@ -20803,10 +20799,6 @@ packages:
 
   dotenv@17.3.1:
     resolution: {integrity: sha512-IO8C/dzEb6O3F9/twg6ZLXz164a2fhTnEWb95H23Dm4OuN+92NmEAlTrupP9VW6Jm3sO26tQlqyvyi4CsnY9GA==}
-    engines: {node: '>=12'}
-
-  dotenv@17.4.2:
-    resolution: {integrity: sha512-nI4U3TottKAcAD9LLud4Cb7b2QztQMUEfHbvhTH09bqXTxnSie8WnjPALV/WMCrJZ6UV/qHJ6L03OqO3LcdYZw==}
     engines: {node: '>=12'}
 
   dset@3.1.4:
@@ -28172,6 +28164,14 @@ packages:
       typescript:
         optional: true
 
+  valibot@1.4.2:
+    resolution: {integrity: sha512-gjdCvJ6d3RyHAneqxMYMW9QMCwYMb3jpOO0IyHZV1bnRHFBHrX3VkIILt5XYR0WhwHiH7Mty8ovuPZ/O3gamrg==}
+    peerDependencies:
+      typescript: ^6.0.3
+    peerDependenciesMeta:
+      typescript:
+        optional: true
+
   validate-npm-package-license@3.0.4:
     resolution: {integrity: sha512-DpKm2Ui/xN7/HQKCtpZxoRWBhZ9Z0kqtygG8XCgNQ8ZlDnxuQmWhj566j8fN4Cu3/JmbhsDo7fcAJq4s9h27Ew==}
 
@@ -34271,11 +34271,6 @@ snapshots:
       '@eslint/core': 1.2.1
       levn: 0.4.1
 
-  '@exodus/bytes@1.15.1(@noble/hashes@2.0.1)':
-    optionalDependencies:
-      '@noble/hashes': 2.0.1
-    optional: true
-
   '@exodus/bytes@1.15.1(@noble/hashes@2.2.0)':
     optionalDependencies:
       '@noble/hashes': 2.2.0
@@ -35908,9 +35903,6 @@ snapshots:
   '@noble/hashes@1.4.0': {}
 
   '@noble/hashes@1.8.0': {}
-
-  '@noble/hashes@2.0.1':
-    optional: true
 
   '@noble/hashes@2.2.0': {}
 
@@ -39569,26 +39561,26 @@ snapshots:
 
   '@speed-highlight/core@1.2.7': {}
 
-  '@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)':
+  '@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)':
     dependencies:
       '@standard-schema/spec': 1.1.0
       '@types/json-schema': 7.0.15
       quansync: 0.2.11
     optionalDependencies:
-      '@valibot/to-json-schema': 1.7.0(valibot@1.2.0(typescript@6.0.3))
+      '@valibot/to-json-schema': 1.7.0(valibot@1.4.2(typescript@6.0.3))
       arktype: 2.2.0
-      valibot: 1.2.0(typescript@6.0.3)
+      valibot: 1.4.2(typescript@6.0.3)
       zod: 4.4.3
       zod-to-json-schema: 3.25.1(zod@4.4.3)
 
-  '@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.2.0(typescript@6.0.3))(zod@4.4.3)':
+  '@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.4.3)':
     dependencies:
-      '@standard-community/standard-json': 0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)
+      '@standard-community/standard-json': 0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)
       '@standard-schema/spec': 1.1.0
       openapi-types: 12.1.3
     optionalDependencies:
       arktype: 2.2.0
-      valibot: 1.2.0(typescript@6.0.3)
+      valibot: 1.4.2(typescript@6.0.3)
       zod: 4.4.3
 
   '@standard-schema/spec@1.1.0': {}
@@ -41288,6 +41280,11 @@ snapshots:
     dependencies:
       valibot: 1.2.0(typescript@6.0.3)
 
+  '@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3))':
+    dependencies:
+      valibot: 1.4.2(typescript@6.0.3)
+    optional: true
+
   '@vercel/analytics@1.6.1(react@18.3.1)':
     optionalDependencies:
       react: 18.3.1
@@ -42806,7 +42803,7 @@ snapshots:
       chokidar: 5.0.0
       confbox: 0.2.4
       defu: 6.1.7
-      dotenv: 17.4.2
+      dotenv: 17.3.1
       exsolve: 1.1.1
       giget: 2.0.0
       jiti: 2.7.0
@@ -44090,8 +44087,6 @@ snapshots:
   dotenv@16.6.1: {}
 
   dotenv@17.3.1: {}
-
-  dotenv@17.4.2: {}
 
   dset@3.1.4: {}
 
@@ -46122,7 +46117,7 @@ snapshots:
 
   history@4.10.1:
     dependencies:
-      '@babel/runtime': 7.29.2
+      '@babel/runtime': 7.29.7
       loose-envify: 1.4.0
       resolve-pathname: 3.0.0
       tiny-invariant: 1.3.3
@@ -46142,10 +46137,10 @@ snapshots:
       '@modelcontextprotocol/sdk': 1.29.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)
       hono: 4.12.34
 
-  hono-openapi@1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.2.0(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3):
+  hono-openapi@1.3.0(@hono/standard-validator@0.2.2(@standard-schema/spec@1.1.0)(hono@4.12.34))(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.4.3))(@types/json-schema@7.0.15)(hono@4.12.34)(openapi-types@12.1.3):
     dependencies:
-      '@standard-community/standard-json': 0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)
-      '@standard-community/standard-openapi': 0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.2.0(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.2.0(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.2.0(typescript@6.0.3))(zod@4.4.3)
+      '@standard-community/standard-json': 0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3)
+      '@standard-community/standard-openapi': 0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(@valibot/to-json-schema@1.7.0(valibot@1.4.2(typescript@6.0.3)))(arktype@2.2.0)(quansync@0.2.11)(valibot@1.4.2(typescript@6.0.3))(zod-to-json-schema@3.25.1(zod@4.4.3))(zod@4.4.3))(@standard-schema/spec@1.1.0)(arktype@2.2.0)(openapi-types@12.1.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.4.3)
       '@types/json-schema': 7.0.15
       openapi-types: 12.1.3
     optionalDependencies:
@@ -46170,13 +46165,6 @@ snapshots:
   html-encoding-sniffer@4.0.0:
     dependencies:
       whatwg-encoding: 3.1.1
-
-  html-encoding-sniffer@6.0.0(@noble/hashes@2.0.1):
-    dependencies:
-      '@exodus/bytes': 1.15.1(@noble/hashes@2.0.1)
-    transitivePeerDependencies:
-      - '@noble/hashes'
-    optional: true
 
   html-encoding-sniffer@6.0.0(@noble/hashes@2.2.0):
     dependencies:
@@ -47052,35 +47040,6 @@ snapshots:
       - bufferutil
       - supports-color
       - utf-8-validate
-
-  jsdom@27.4.0(@noble/hashes@2.0.1)(bufferutil@4.1.0):
-    dependencies:
-      '@acemir/cssom': 0.9.31
-      '@asamuzakjp/dom-selector': 6.8.1
-      '@exodus/bytes': 1.15.1(@noble/hashes@2.0.1)
-      cssstyle: 5.3.7
-      data-urls: 6.0.1
-      decimal.js: 10.6.0
-      html-encoding-sniffer: 6.0.0(@noble/hashes@2.0.1)
-      http-proxy-agent: 7.0.2
-      https-proxy-agent: 7.0.6
-      is-potential-custom-element-name: 1.0.1
-      parse5: 8.0.1
-      saxes: 6.0.0
-      symbol-tree: 3.2.4
-      tough-cookie: 6.0.1
-      w3c-xmlserializer: 5.0.0
-      webidl-conversions: 8.0.1
-      whatwg-mimetype: 4.0.0
-      whatwg-url: 15.1.0
-      ws: 8.20.0(bufferutil@4.1.0)
-      xml-name-validator: 5.0.0
-    transitivePeerDependencies:
-      - '@noble/hashes'
-      - bufferutil
-      - supports-color
-      - utf-8-validate
-    optional: true
 
   jsdom@27.4.0(@noble/hashes@2.2.0)(bufferutil@4.1.0):
     dependencies:
@@ -53020,7 +52979,7 @@ snapshots:
       json-rpc-2.0: 1.7.1
       sqids: 0.3.0
       uri-template-matcher: 1.1.2
-      valibot: 1.2.0(typescript@6.0.3)
+      valibot: 1.4.2(typescript@6.0.3)
     transitivePeerDependencies:
       - typescript
 
@@ -53723,6 +53682,10 @@ snapshots:
     optionalDependencies:
       typescript: 6.0.3
 
+  valibot@1.4.2(typescript@6.0.3):
+    optionalDependencies:
+      typescript: 6.0.3
+
   validate-npm-package-license@3.0.4:
     dependencies:
       spdx-correct: 3.2.0
@@ -53922,7 +53885,7 @@ snapshots:
 
   vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0):
     dependencies:
-      esbuild: 0.28.1
+      esbuild: 0.27.7
       fdir: 6.5.0(picomatch@4.0.5)
       picomatch: 4.0.5
       postcss: 8.5.25
@@ -54027,37 +53990,6 @@ snapshots:
       '@vitest/coverage-v8': 4.1.8(vitest@4.1.8)
       '@vitest/ui': 4.1.8(vitest@4.1.8)
       jsdom: 26.1.0(bufferutil@4.1.0)
-    transitivePeerDependencies:
-      - msw
-
-  vitest@4.1.8(@opentelemetry/api@1.9.1)(@types/node@22.19.15)(@vitest/coverage-v8@4.1.8)(@vitest/ui@4.1.8)(jsdom@27.4.0(@noble/hashes@2.0.1)(bufferutil@4.1.0))(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0)):
-    dependencies:
-      '@vitest/expect': 4.1.8
-      '@vitest/mocker': 4.1.8(msw@2.14.6(@types/node@22.19.15)(typescript@6.0.3))(vite@7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0))
-      '@vitest/pretty-format': 4.1.8
-      '@vitest/runner': 4.1.8
-      '@vitest/snapshot': 4.1.8
-      '@vitest/spy': 4.1.8
-      '@vitest/utils': 4.1.8
-      es-module-lexer: 2.0.0
-      expect-type: 1.3.0
-      magic-string: 0.30.21
-      obug: 2.1.1
-      pathe: 2.0.3
-      picomatch: 4.0.4
-      std-env: 4.1.0
-      tinybench: 2.9.0
-      tinyexec: 1.1.2
-      tinyglobby: 0.2.17
-      tinyrainbow: 3.1.0
-      vite: 7.3.6(@types/node@22.19.15)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.44.1)(tsx@4.22.4)(yaml@2.9.0)
-      why-is-node-running: 2.3.0
-    optionalDependencies:
-      '@opentelemetry/api': 1.9.1
-      '@types/node': 22.19.15
-      '@vitest/coverage-v8': 4.1.8(vitest@4.1.8)
-      '@vitest/ui': 4.1.8(vitest@4.1.8)
-      jsdom: 27.4.0(@noble/hashes@2.0.1)(bufferutil@4.1.0)
     transitivePeerDependencies:
       - msw
 
