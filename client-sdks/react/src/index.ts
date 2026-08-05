@@ -17,3 +17,4 @@ export type {
 export * from './ui';
 export * from './workflows'; // Workflow hooks
 export * from './voice'; // Voice helpers
+export { Analytics } from '@vercel/analytics/react'; // Vercel Web Analytics
