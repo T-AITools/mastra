@@ -112,7 +112,7 @@
     "esbuild": "^0.27.4",
     "find-workspaces": "^0.3.1",
     "fs-extra": "^11.3.4",
-    "hono": "^4.12.34",
+    "hono": "^4.13.7",
     "local-pkg": "^1.1.2",
     "resolve.exports": "^2.0.3",
     "rollup": "^4.59.0",
